@@ -1,0 +1,28 @@
+{
+  "name": "insomnia-plugin-oauth2-tag",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elKei24/insomnia-plugin-oauth2-tag.git"
+  },
+  "homepage": "https://github.com/elKei24/insomnia-plugin-oauth2-tag",
+  "bugs": {
+    "url": "https://github.com/elKei24/insomnia-plugin-oauth2-tag/issues"
+  },
+  "author": {
+    "name": "Elias Keis",
+    "url": "https://github.com/elKei24"
+  },
+  "description": "An Insomnia plugin that adds a tag for accessing the OAuth2 token of one request in other requests.",
+  "insomnia": {
+    "name": "oauth2-tag",
+    "displayName": "OAuth2 Tag",
+    "description": "Adds a tag for accessing the OAuth2 token of one request in other requests.",
+    "publisher": {
+      "name": "Elias Keis",
+      "icon": "https://avatars.githubusercontent.com/u/13063245"
+    }
+  },
+  "main": "main.js"
+}
